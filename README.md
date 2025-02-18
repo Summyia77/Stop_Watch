@@ -1,4 +1,4 @@
-# ⏱️ Stopwatch Web & Mobile App ⏱️
+# ⏱️ Stopwatch Web App ⏱️
 
 A simple and accurate stopwatch, available as both a web application and a mobile app (built with Flutter). Perfect for timing anything from workouts 💪 and cooking 🍳 to experiments 🔬 and presentations 🎤.
 
